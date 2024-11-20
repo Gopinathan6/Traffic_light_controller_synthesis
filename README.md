@@ -1,4 +1,6 @@
-# Traffic_light_controller_Synthesis
+# Name : GOPINATHAN P
+# Reg no :212222060068
+# Exp-6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
@@ -38,11 +40,18 @@ The Liberty files are present in the library path,
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-Synthesis RTL Schematic :
+#### Synthesis RTL Schematic :![Screenshot (55)](https://github.com/user-attachments/assets/6c73be06-d83f-4598-a685-584491483175)
 
-Area report:
 
-Power Report:
+#### Area report:![Screenshot (56)](https://github.com/user-attachments/assets/88889e73-1e33-4762-af2c-38832a439f33)
+
+
+#### Power Report:![Screenshot (57)](https://github.com/user-attachments/assets/3f95374e-d905-49a7-a103-df1db4d8b265)
+
+
+#### Timing Report:![Screenshot (58)](https://github.com/user-attachments/assets/b1c3e4ea-d665-4503-b6c5-6ce35d40f2d7)
+
+
 
 Result:
 
